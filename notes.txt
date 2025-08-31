@@ -1,0 +1,34 @@
+SDLC (Software Development Life Cycle)
+  >>Waterfall Model
+  >> Agile Model
+  >> Spiral Model
+  >> Iterative Model
+  >> Incremantal Model
+  >> RAD (Rapid Application Development)
+
+
+
+
+  https://education.akshanshAcademy.edu/FullStack
+
+  HERE->>
+  https (Hypertext Transfer Protocol Secure): Protocol
+  education- Sub-domain
+  akshanshAcademy- Server/ Domain Name
+  edu - TLD (Top Level Domain)
+  FullStack- Path/Location 
+
+
+
+
+
+>>Git/Github
+    
+    Git- Version Control
+
+    Uses:
+    Recovery
+    Collaboration
+    Hosted on Cloud
+    Can switch to a previous Version (if required)
+     

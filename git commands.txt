@@ -1,0 +1,22 @@
+>> For 1st time you need to configure git with the folder/editor also (use CMD or Terminal of VS code)
+  >> git config --global user.name "akshansh-thakur"
+  >> git config --global user.email "aksansh.thakur970@gmail.com"
+
+
+ git config --global color.ui auto (optional for making UI good)
+
+
+ MANDATORY COMMANDS:
+  >> git init (initialize the github in that particular folder) 
+  >> git remote add origin (https://github.com/akshansh-thakur/firstgit.git) ENTER THE path to your repo like without brackets 
+
+
+  git pull origin main
+  git status 
+
+  git add . (to push all files)
+  git status
+  git commit -m "Commit message"
+  git push (using SSH key cause remote authorization is now turned off)
+
+  git checkout -b " " (for creting new branch)
